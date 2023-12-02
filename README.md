@@ -1,3 +1,8 @@
+# Authors
+Tarang Ghetia <br>
+Pranav Sirodaria <br>
+Suyamoon Pathak
+
 # Game-Theory-Based-Stock-Price-Prediction
 We started off a baseline LSTM model, and we are inserting different biases - 1. News sentiment bias, 2. Game Theory Bias, 3. User Hunch Bias.
 # Stock Price Predictor with LSTM and Game Theory Biases
